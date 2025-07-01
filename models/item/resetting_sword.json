@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/resettingsword",
+  "textures": {
+    "2": "finfin:blocks/red_key_64"
+  }
+}

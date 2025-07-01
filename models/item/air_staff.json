@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/airstaffzibik",
+  "textures": {
+    "3": "finfin:blocks/air_staff_zibik"
+  }
+}

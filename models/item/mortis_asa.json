@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/mortisasa",
+  "textures": {
+    "0": "finfin:blocks/mortisasa"
+  }
+}

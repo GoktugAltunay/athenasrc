@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/matrosyhka1545asa",
+  "textures": {
+    "1": "finfin:blocks/staffmatrosyhka"
+  }
+}

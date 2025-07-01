@@ -1,0 +1,7 @@
+{
+  "parent": "finfin:custom/urmcmodel",
+  "textures": {
+    "4": "finfin:blocks/nitroksinalev",
+    "5": "finfin:blocks/nitroxn"
+  }
+}

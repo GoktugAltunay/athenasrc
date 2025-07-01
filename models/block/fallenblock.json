@@ -1,0 +1,8 @@
+{
+  "parent": "finfin:custom/fallenblock",
+  "textures": {
+    "all": "finfin:blocks/fallen_pearlstudios",
+    "particle": "finfin:blocks/fallen_pearlstudios",
+    "0": "finfin:blocks/fallen_pearlstudios"
+  }
+}

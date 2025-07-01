@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/distortedboraloopak",
+  "textures": {
+    "0": "finfin:blocks/distortedboraloopak"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/arrow",
+  "textures": {
+    "0": "finfin:blocks/arrow"
+  }
+}

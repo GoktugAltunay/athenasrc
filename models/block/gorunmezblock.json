@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "finfin:blocks/sasa",
+    "up": "finfin:blocks/sasa",
+    "north": "finfin:blocks/sasa",
+    "east": "finfin:blocks/sasa",
+    "south": "finfin:blocks/sasa",
+    "west": "finfin:blocks/sasa",
+    "particle": "finfin:blocks/sasa"
+  }
+}

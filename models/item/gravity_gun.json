@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/gravitygun",
+  "textures": {
+    "5": "finfin:blocks/sadqwd"
+  }
+}

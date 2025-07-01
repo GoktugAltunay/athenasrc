@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/goldenrevolverrr",
+  "textures": {
+    "2": "finfin:blocks/qweqeq"
+  }
+}

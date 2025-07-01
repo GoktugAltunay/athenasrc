@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/portalgun",
+  "textures": {
+    "2": "finfin:blocks/portalgun"
+  }
+}

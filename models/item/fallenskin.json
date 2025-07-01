@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/fallenblock",
+  "textures": {
+    "0": "finfin:blocks/fallen_pearlstudios"
+  }
+}

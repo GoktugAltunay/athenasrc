@@ -1,0 +1,6 @@
+{
+  "parent": "finfin:custom/r301ammo",
+  "textures": {
+    "0": "finfin:blocks/r301ammo"
+  }
+}
