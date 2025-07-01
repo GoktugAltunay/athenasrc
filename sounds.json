@@ -1,0 +1,65 @@
+{
+  "revolverreload": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "finfin:revolver_reload",
+        "stream": false
+      }
+    ]
+  },
+  "revolvershot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "finfin:revolver_shot_a",
+        "stream": false
+      }
+    ]
+  },
+  "r301fire": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "finfin:fire",
+        "stream": false
+      }
+    ]
+  },
+  "r301reload": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "finfin:reload",
+        "stream": false
+      }
+    ]
+  },
+  "r99fire": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "finfin:fire",
+        "stream": false
+      }
+    ]
+  },
+  "r99reload": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "finfin:reload",
+        "stream": false
+      }
+    ]
+  },
+  "taserses": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "finfin:taserfire",
+        "stream": false
+      }
+    ]
+  }
+}
